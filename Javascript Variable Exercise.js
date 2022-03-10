@@ -5,6 +5,8 @@ function test() {
     /***********Do not change the code above 👆*******/
 //Write your code on lines 7 - 9:
 
+//Solution
+
     let c = a;
     a = b;
     b = c;
